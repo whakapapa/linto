@@ -1,0 +1,178 @@
+fslint (2.47-1) unstable; urgency=low
+
+  * bump to devel version
+
+ -- Pádraig Brady <P@draigBrady.com>  wed, 01 feb 2017 22:32:00 +0000
+
+fslint (2.46-1) unstable; urgency=low
+
+  * bump to release version
+
+ -- Pádraig Brady <P@draigBrady.com>  wed, 01 feb 2017 22:31:00 +0000
+
+fslint (2.45-1) unstable; urgency=low
+
+  * bump to devel version
+
+ -- Pádraig Brady <P@draigBrady.com>  mon, 13 jan 2014 08:32:00 +0000
+
+fslint (2.44-1) unstable; urgency=low
+
+  * bump to release version
+
+ -- Pádraig Brady <P@draigBrady.com>  mon, 13 jan 2014 08:31:00 +0000
+
+fslint (2.43-1) unstable; urgency=low
+
+  * bump to devel version
+
+ -- Pádraig Brady <P@draigBrady.com>  thu, 29 apr 2010 23:57:00 +0000
+
+fslint (2.42-1) unstable; urgency=low
+
+  * bump to release version
+
+ -- Pádraig Brady <P@draigBrady.com>  thu, 29 apr 2010 08:31:00 +0000
+
+fslint (2.41-1) unstable; urgency=low
+
+  * bump to devel version
+  * Use POSIX process substitution shell syntax (Closes: 548787)
+  * Add detail on each fslint command to man page  (Closes: 548685)
+
+ -- Pádraig Brady <P@draigBrady.com>  tue, 21 jul 2009 01:58:00 +0000
+
+fslint (2.40-2) unstable; urgency=low
+
+  * Fixup warnings from running lintian on source package
+
+ -- Pádraig Brady <P@draigBrady.com>  thu, 23 jul 2009 09:27:00 +0000
+
+fslint (2.40-1) unstable; urgency=low
+
+  * bump to release version
+
+ -- pádraig brady <p@draigbrady.com>  tue, 21 jul 2009 00:07:00 +0000
+
+fslint (2.29-1) unstable; urgency=low
+
+  * Bump to devel version
+  * Add the debian updated German translation (Closes: 503232)
+  * Add findutils as a dependency (Closes: 511805)
+  * Give more info on CLI tools in fslint-gui man page (Closes: 511806)
+
+ -- pádraig brady <p@draigbrady.com>  tue, 09 sep 2008 10:39:00 +0000
+
+fslint (2.28-1) unstable; urgency=low
+
+  * bump to release version
+
+ -- pádraig brady <p@draigbrady.com>  tue, 09 sep 2008 08:09:00 +0000
+
+fslint (2.27-1) unstable; urgency=low
+
+  * Bump to devel version
+  * Remove `echo -e` bashism from ancillary scripts (Closes: #489597)
+
+ -- Pádraig Brady <P@draigBrady.com>  Tue, 10 Jul 2008 23:47:00 +0000
+
+fslint (2.26-2) unstable; urgency=low
+
+  * Minor packaging cleanups suggested by Cameron Dale
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 22 May 2008 15:17:00 +0000
+
+fslint (2.26-1) unstable; urgency=low
+
+  * Bump to release version
+
+ -- Pádraig Brady <P@draigBrady.com>  Tue, 20 May 2008 08:06:00 +0000
+
+fslint (2.25-1) unstable; urgency=low
+
+  * Bump to devel version
+  * Remove bash dependency from "fix whitespace" script (Closes: #446326)
+  * Remove bc dependency from "dupwaste" script (Closes: #448882)
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 19 Sep 2007 10:40:00 +0000
+
+fslint (2.24-1) unstable; urgency=low
+
+  * Bump to release version
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 19 Sep 2007 07:38:00 +0000
+
+fslint (2.23-1) unstable; urgency=low
+
+  * Bump to devel version
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 28 Jun 2007 16:38:00 +0000
+
+fslint (2.22-2) unstable; urgency=low
+
+  * Minor packaging cleanups suggested by Bart Martens
+
+ -- Pádraig Brady <P@draigBrady.com>  Mon, 02 Jul 2007 07:50:00 +0000
+
+fslint (2.22-1) unstable; urgency=low
+
+  * Bump to release version
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 28 Jun 2007 16:02:00 +0000
+
+fslint (2.21-1) unstable; urgency=low
+
+  * Bump to devel version
+  * Remove findup -m cross device limitation (Closes: #426522)
+
+ -- Pádraig Brady <P@draigBrady.com>  Fri, 30 Mar 2007 08:22:00 +0000
+
+fslint (2.20-1) unstable; urgency=low
+
+  * Update description to make FSlint easier to find (Closes: #413907)
+  * Bump to release version
+
+ -- Pádraig Brady <P@draigBrady.com>  Fri, 09 Mar 2007 07:54:00 +0000
+
+fslint (2.19-2) unstable; urgency=low
+
+  * add md5sum_approx
+
+ -- Pádraig Brady <P@draigBrady.com>  Fri, 02 Feb 2007 00:34:00 +0000
+
+fslint (2.19-1) unstable; urgency=low
+
+  * Bump to devel version
+
+ -- Pádraig Brady <P@draigBrady.com>  Tue, 26 Dec 2006 14:54:00 +0000
+
+fslint (2.18-1) unstable; urgency=low
+
+  * Bump to release version (Closes: #379999, #380208, #397046)
+
+ -- Pádraig Brady <P@draigBrady.com>  Mon, 25 Dec 2006 23:54:00 +0000
+
+fslint (2.17-1) unstable; urgency=low
+
+  * Bump to devel version
+
+ -- Pádraig Brady <P@draigBrady.com>  Tue, 28 Nov 2006 17:25:30 +0000
+
+fslint (2.16-1) unstable; urgency=low
+
+  * Cleanups suggested by lintian
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 01 Jun 2006 09:09:13 +0000
+
+fslint (2.15-1) unstable; urgency=low
+
+  * Cleanups suggested by Justin Pryzsb
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 09 Mar 2006 08:50:03 +0000
+
+fslint (2.14-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Pádraig Brady <P@draigBrady.com>  Thu, 16 Feb 2006 18:52:06 +0000
+
